@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>io.getmedusa</groupId>
 			<artifactId>medusa-ui</artifactId>
-			<version>0.9.3</version>
+			<version>0.9.4</version>
 		</dependency>
 
 		<dependency>
